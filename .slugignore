@@ -1,0 +1,7 @@
+# Heres a comment
+*.psd
+*.pdf
+weather_dev.csv
+weather_train.csv
+/test
+/spec
