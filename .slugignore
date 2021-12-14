@@ -3,5 +3,5 @@
 *.pdf
 weather_dev.csv
 weather_train.csv
-/test
-/spec
+#/spec
+solar.py
