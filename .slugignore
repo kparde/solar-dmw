@@ -1,12 +1,12 @@
 # Heres a comment
-*.psd
-*.pdf
-weather_dev.csv
-weather_train.csv
+#*.psd
+#*.pdf
+#weather_dev.csv
+#weather_train.csv
 #/spec
-solar.py
-*.svg 
-*.eot
-*.woff
-*.woff2
-*.ttf
+#solar.py
+#*.svg 
+#*.eot
+#*.woff
+#*.woff2
+#*.ttf
